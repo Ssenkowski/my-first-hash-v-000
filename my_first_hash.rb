@@ -16,7 +16,7 @@ end
 
 def retrieval
   shipping_manifest = {"whale bone corsets" => "5", "porcelain vases" => "2", "oil_paintings" => "3"}
-  hash["oil paintings"]
+  hash["oil_paintings"]
   #your code here!
 end
 
