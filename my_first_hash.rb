@@ -1,6 +1,6 @@
 def my_hash
-  my_family = ["my_wife" => "Hannah", "my_brother" => "Alec", "my_dad" => "Curt", "my_mom" =>
-  "Cathy"]
+  my_family = {"my_wife" => "Hannah", "my_brother" => "Alec", "my_dad" => "Curt", "my_mom" =>
+  "Cathy"}
 
 end
 
