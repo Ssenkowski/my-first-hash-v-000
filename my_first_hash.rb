@@ -1,6 +1,6 @@
 def my_hash
-  # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-
+  my_family = ["my_wife" => "Hannah", "my_brother" => "Alec", "my_dad" => "Curt", "my_mom" => 
+  "Cathy"]
   
 end
 
